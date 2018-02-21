@@ -1,7 +1,7 @@
 version: '3'
 services:
   petclinic:
-    image: springpetclinic_petclinic
+    image: udayamv/demo
     ports:
       - 9500:8080
   mysql:
